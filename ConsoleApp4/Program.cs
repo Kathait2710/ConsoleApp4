@@ -9,8 +9,8 @@ namespace ConsoleApp4
 
             //int[] arr = { 1265, 8754, 1964, 8259 };
             int[] arr = { 12652, 87544, 19642, 82591 };
-            int temp=0;
-
+            //int temp=0;
+            int temp = 1;
             for (int i = 0; i < arr.Length; i++)
             {
                var stng= arr[i].ToString();
