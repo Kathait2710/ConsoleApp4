@@ -16,7 +16,7 @@ namespace ConsoleApp4
                var stng= arr[i].ToString();
                char[] arr1 =stng.ToCharArray();
                 Array.Sort(arr1);
-                Array.Reverse(arr1);
+               Array.Reverse(arr1);
                 string st = new string(arr1);
                 arr[i] =Convert.ToInt32(st);
                // Console.WriteLine(st);
