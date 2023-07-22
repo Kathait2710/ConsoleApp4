@@ -7,8 +7,8 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {
 
-            int[] arr = { 1265, 8754, 1964, 8259 };
-
+            //int[] arr = { 1265, 8754, 1964, 8259 };
+            int[] arr = { 12652, 87544, 19642, 82591 };
             int temp=0;
 
             for (int i = 0; i < arr.Length; i++)
