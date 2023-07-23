@@ -40,8 +40,8 @@ namespace ConsoleApp4
             {
                 Console.WriteLine(arr[k]);
             }
-            
-           
+
+            Console.WriteLine("CHanges by Ss");
         }
     }
 }
