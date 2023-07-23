@@ -41,7 +41,7 @@ namespace ConsoleApp4
                 Console.WriteLine(arr[k]);
             }
 
-            Console.WriteLine("CHanges by Ss");
+            Console.WriteLine("CHanges by me as SK");
         }
     }
 }
